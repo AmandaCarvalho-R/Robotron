@@ -9,7 +9,38 @@ Com este projeto pude aprender sobre o que é o DOM, como manipular o DOM, selec
 
 <h2 align="center"> 
     
-📸 Demonstração da aplicação
+![Construção_de_vídeo](https://user-images.githubusercontent.com/121901080/216784104-02b7f0a8-2c8d-4442-95da-ee656eceaefe.png)
+ Resultado do meu trabalho
+    
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/121901080/216782884-02d348c9-2f1e-4ad5-bb19-6ba953fb6a9a.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/121901080/216784418-9aa13876-0661-4de4-85c7-8bc2a809a3a5.gif)
+    
+    
+📸 Captura de tela
+    
+ ![image](https://user-images.githubusercontent.com/121901080/216784189-446ba58e-ee15-435d-8296-7af01f8cb9b2.png)
+    
+ 📁 Acesso ao Projeto <br>
+    
+https://projetorobotron.netlify.app   <br><br>
+    
+✔️ Linguagens utilizadas
+    
+<img src="https://img.shields.io/badge/-HTML-critical"/> <img src="https://img.shields.io/badge/-CSS-informational"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>  
+    
+![image](https://user-images.githubusercontent.com/121901080/216240259-cde3de16-257e-4a33-a83e-b0e20199f706.png)
+Desenvolvedora
+![image](https://user-images.githubusercontent.com/121901080/216240329-00619566-e448-4b91-bea4-f07035dfb985.png)
+
+
+
+![image](https://user-images.githubusercontent.com/121901080/216240914-9c0751b9-409a-46d2-90e3-6b30443ce72b.png)
+    
+Amanda Carvalho    
+
+
+    
+    
 
 
 
