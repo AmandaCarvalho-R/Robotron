@@ -1,5 +1,7 @@
-<h1 align="center">Robotron-2000</h1><br>
-<p align="center">Este projeto foi desafio do curso: Manipulando DOM da Alura</p>
+<h1 align="center">Robotron-2000 <br>
+<img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen"/>
+</h1><br>    
+<p align="center">Este projeto foi desafio do curso: Manipulando DOM da Alura</p> <br>
 
 <h2 align="center"> 
     Objetivo do projeto
