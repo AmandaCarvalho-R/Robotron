@@ -15,7 +15,22 @@ Com este projeto pude aprender sobre o que é o DOM, como manipular o DOM, selec
  Resultado do meu trabalho
     
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/121901080/216782884-02d348c9-2f1e-4ad5-bb19-6ba953fb6a9a.gif)
+<br>
+Código HTML
+
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/121901080/216784418-9aa13876-0661-4de4-85c7-8bc2a809a3a5.gif)
+<br>
+
+Código CSS
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/121901080/216795231-18883d00-fe2f-492b-a92b-6d2116f8b718.gif)
+<br>
+
+Código Javascript
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/121901080/216795294-c527d7b2-3494-403d-a9dd-87d439a41605.gif)
+
+
     
     
 📸 Captura de tela
